@@ -1,4 +1,4 @@
-# astrology
+# astrology v MBTI
 INTRO
 
 an analysis of astrological signs vs mbti. The goal is to see if any patterns can be found between astrological signs and MBTI letters - e.g. are Leos more extroverted than you'd expect?
